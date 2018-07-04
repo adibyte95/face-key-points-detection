@@ -26,4 +26,6 @@ about 4909 images in the training data set has one or more missing land mark poi
 <br/>
 
 4. data augmentation<br/>
-vertical and horizontal data augmentation were introducted on 1712 images in the training set and were cross validated on the same cross validation set of 428 images
+vertical and horizontal data augmentation were introducted on 1712 images in the training set and were cross validated on the same cross validation set of 428 images. after around 200 epochs the val_loss was .00039
+
+
