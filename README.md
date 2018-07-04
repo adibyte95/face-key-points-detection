@@ -1,12 +1,12 @@
 # face-key-points-detection
-TOPIC<br/> 
+# TOPIC<br/> 
 To identify 15 landmark points on an gray scale image of a human face.
 
-Dataset<br/>
+# Dataset<br/>
 dataset used here is obtained from kaggle. it can be downloaded from <a href ="https://www.kaggle.com/c/facial-keypoints-detection/">here</a>. training dataset containes 7049 images and testing dataset contains about 1783 images. landmark keypoints of some of the images in the training set is missing.
 
 <br/>
-Approach<br/>
+# Approach<br/>
 CNN was used to solve this problem.<br/> 
 1. using plain simple images<br/>
 all the images which have missing landmark facial points were removed from the training dataset. CNN was trained on 1712 images and cross validated on 428 images . after training for about 420 epochs the validation_loss =.00029 and loss =.00072 and validation_mean_error = .0120
