@@ -3,7 +3,7 @@
 To identify 15 landmark points on an gray scale image of a human face.
 
 # Dataset<br/>
-dataset used here is obtained from kaggle. it can be downloaded from <a href ="https://www.kaggle.com/c/facial-keypoints-detection/">here</a>. training dataset containes 7049 images and testing dataset contains about 1783 images. landmark keypoints of some of the images in the training set is missing.
+dataset used here is obtained from kaggle. it can be downloaded from <a href ="https://www.kaggle.com/c/facial-keypoints-detection/">here</a>. training dataset containes 7049 images and testing dataset contains about 1783 images of size 96*96. landmark keypoints of some of the images in the training set is missing.
 
 <br/>
 
