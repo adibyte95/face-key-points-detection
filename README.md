@@ -1,4 +1,3 @@
-# face-key-points-detection
 # TOPIC<br/> 
 To identify 15 landmark points on an gray scale image of a human face.
 
