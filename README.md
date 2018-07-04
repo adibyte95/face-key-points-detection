@@ -27,5 +27,10 @@ vertical and horizontal data augmentation were introducted on 1712 images in the
 # performance<br/>
 performance on the test set<br/>
 
+<img src ='https://github.com/adibyte95/face-key-points-detection/blob/master/images/1a.png'>
+<img src ='https://github.com/adibyte95/face-key-points-detection/blob/master/images/1b.png'>
+<img src ='https://github.com/adibyte95/face-key-points-detection/blob/master/images/2a.png'>
+<img src ='https://github.com/adibyte95/face-key-points-detection/blob/master/images/2b.png'>
+<img src ='https://github.com/adibyte95/face-key-points-detection/blob/master/images/3a.png'>
 
 
