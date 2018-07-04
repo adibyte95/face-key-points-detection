@@ -10,9 +10,7 @@ dataset used here is obtained from kaggle. it can be downloaded from <a href ="h
 # Approach<br/>
 CNN was used to solve this problem.<br/> 
 
-1. using plain simple images <br/>
-
-
+1. using plain simple images
 all the images which have missing landmark facial points were removed from the training dataset. CNN was trained on 1712 images and cross validated on 428 images . after training for about 420 epochs the validation_loss =.00029 and loss =.00072 and validation_mean_error = .0120
 
 <br/>
