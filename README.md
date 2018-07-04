@@ -13,7 +13,7 @@ CNN was used to solve this problem
 all the images which have missing landmark facial points were removed from the training dataset. CNN was trained on 1712 images and cross validated on 428 images . after training for about 420 epochs the <b> validation_loss =.00029 </b> and <b> loss =.00072 </b> and <b> validation_mean_error = .0120 </b>
 
 ## 2. with histogram equalization 
-after histogram equalization of both the training and cross validation images, CNN was trained on the same training images.after 288 epochs validation loss on the same validation set was about <b> .00039 <b/>.model was not trained further
+after histogram equalization of both the training and cross validation images, CNN was trained on the same training images.after 288 epochs validation loss on the same validation set was about <b> .00039 </b>.model was not trained further
 
 
 
